@@ -62,7 +62,7 @@
     "ava": "^1.0.1",
     "dependency-check": "^3.3.0",
     "eslint": "^5.11.1",
-    "eslint-plugin-harmony": "^1.0.4",
+    "eslint-plugin-harmony": "^2.0.0",
     "nyc": "^13.1.0",
     "param-case": "^2.1.1",
     "pascal-case": "^2.0.1",
